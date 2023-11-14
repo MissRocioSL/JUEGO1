@@ -1,2 +1,1 @@
-# JUEGO1
-XXXXXXXXX
+Actividad del alumno 3 - PRO - C30
